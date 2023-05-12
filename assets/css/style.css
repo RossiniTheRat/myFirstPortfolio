@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    height: 100px;
+    color: rgb(23, 123, 204);
+    background-color: rgb(255, 233, 34);
+    text-align: center;
+}
+
+.header h1{
+    font-size: 60px;
+}
+
+.header nav ul li {
+    font-size: 25px;
+    display: inline-block;
+    margin-inline: 10px;
+}
+
+.hero {
+    height: 30vh;
+    width: 100%;
+    background-image: url("../images/G&B.jpg");
+}
+
+section {
+    color: rgb(23, 123, 204);
+    background-color: rgb(255, 233, 34);
+}
+
+.About-Me h2{
+    margin-left: 25px;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+
+.My-Work h2 {
+    margin-left: 25px;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50vh;
+}
+
+.footer {
+    color: rgb(23, 123, 204);
+    background-color: rgb(255, 233, 34);
+    text-align: center;
+}
+
+.footer ul li{
+    display: inline-block;
+}
