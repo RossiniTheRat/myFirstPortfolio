@@ -6,4 +6,5 @@ Website uses HTML and CSS elements to position text and pictures as well as maki
 
 Link to deployed application: https://rossinitherat.github.io/myFirstPortfolio/![MOD 2]
 
-(https://github.com/RossiniTheRat/myFirstPortfolio/assets/98125903/a272cd4a-a4f0-409c-b6ba-2a74dac25dd6)
+
+![Alt text](../../../MOD%202.PNG)
